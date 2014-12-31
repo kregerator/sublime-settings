@@ -1,0 +1,17 @@
+<snippet>
+  <!-- This snippet will add a quick header to a meeting note section -->
+  <content><![CDATA[
+-----------------------------------------------------------------------
+
+__Date:__   ${1:date} 
+__Meeting Name:__   ${2:meeting name}
+__Goal:__   ${3: optional goal}
+
+-----------------------------------------------------------------------
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>head</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,32 @@
+<snippet>
+  <content><![CDATA[
+Monday
+------------------------------------------------------------------------
+* ${1:na}
+
+
+Tuesday
+------------------------------------------------------------------------
+* ${2:na}
+
+Wednesday
+------------------------------------------------------------------------
+* ${3:na}
+
+
+Thursday
+------------------------------------------------------------------------
+* ${4:na}
+
+
+Friday
+------------------------------------------------------------------------
+* ${5:na}
+
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>week</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
